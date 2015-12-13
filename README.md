@@ -4,6 +4,10 @@ This is a simple welcome presentation for Free Code Camp Organizers to use for t
 
 This was made with reveal.js
 
+## Development
+ - npm install
+ - bower install
+
 ## Live Site
 
 * Official: http://rxsharp.github.io/welcome-to-fcc/#/
